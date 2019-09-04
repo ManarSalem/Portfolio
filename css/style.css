@@ -1,0 +1,75 @@
+img
+{
+    max-width: 100%;
+}
+header
+{
+    
+    background-color: #101010;
+    color:pink;
+}
+.logo
+{
+   margin:0 2% 
+}
+.logo h1
+{
+    font-weight: 200;
+    
+}
+.logo h1 span
+{
+    font-weight: 800;
+    
+}
+.paragraphs
+{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1%;
+    
+}
+.paragraphs h3
+{
+    color:#90a4ae;
+    background-color: palevioletred;
+    font-family: 'Montserrat', sans-serif;
+    text-shadow: 2px 2px #101010;
+}
+.paragraphs article
+{
+    font-family: 'Libre Baskerville', serif;
+    background-color: #eceff1;
+    box-shadow: #90a4ae;
+}
+.paragraphs article a
+{
+    background-color:#101010;
+    color:#ffe6ee;
+}
+#banner 
+{
+    padding:0 1%;
+ background-color: #eceff1;
+ margin: 0 auto;
+ border-radius: 2%;
+}
+#banner h2
+{
+    text-shadow: 2px 2px gray;
+    font-family: 'Indie Flower', cursive;
+}
+.images
+{
+    display: flex;
+    width:25%;
+    height: 25%;
+}
+body
+{
+    background-color: black;
+    background-attachment: fixed;
+    padding-right: 4%;
+    padding-left:4%;
+}
+
